@@ -10,3 +10,4 @@ Enable plugin from each feeds edit form.
 # Limitation
 * Can forward to owner's email only
 * Not supporting digest yet
+* You need to use Preferences/Filter separately to mark articles as read
